@@ -1,6 +1,6 @@
-﻿![Forma
 
-Descripción generada automáticamente con confianza media](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.001.png)Carlos Santayana Vicente                                  Juegos en Red
+
+Carlos Santayana Vicente                         Juegos en Red
 
 Marcos De Ozaeta Cabadas			 Madrid (Quintana)
 
