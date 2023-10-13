@@ -70,7 +70,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **Rana Punta de Flecha**, con “***Dendrobatidae*”** como su nombre científico**,** originaria de América del Sur, es una rana venenosa que llama la atención de sus depredadoras con sus patrones y colores brillantes, cuanto más llamativos son, más tóxico es el contacto con estas.
 
-![Rana Flecha Roja y Azul (Oophaga pumilio) - EcoRegistros](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.005.jpeg)![Un dibujo de una cara con ojos y boca
+![Rana Flecha Roja y Azul (Oophaga pumilio) - EcoRegistros](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.005.jpeg)!
 
 Descripción generada automáticamente con confianza baja](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.006.png)
 
@@ -80,9 +80,7 @@ Descripción generada automáticamente con confianza baja](Aspose.Words.3fe796b4
 
 ![Rana toro africana (Pyxicephalus adspersus)](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.007.jpeg)
 
-`                                                                                               `![Diagrama
-
-Descripción generada automáticamente](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.008.png)
+`                                                                                               `
 
 **“Rana Toro”				“Boceto de personaje Rana Toro”**
 
