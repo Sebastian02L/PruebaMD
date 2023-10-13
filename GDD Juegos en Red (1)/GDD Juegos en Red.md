@@ -59,7 +59,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **La Rana de Lluvia**, científicamente conocida como “***Breviceps gibbosus”,*** es una rana africana cuyas principales características son la forma esférica de su cuerpo y sus ojos oscuros, que le dan un aspecto de caricatura. 
 
-![](Aspose.Words.ad51b999-c04c-4a68-ac9d-39f133a883a4.003.png)![](Aspose.Words.ad51b999-c04c-4a68-ac9d-39f133a883a4.004.png)
+![](Imagenes/Aspose.Words.ad51b999-c04c-4a68-ac9d-39f133a883a4.003.png)![](Aspose.Words.ad51b999-c04c-4a68-ac9d-39f133a883a4.004.png)
 
 
 
