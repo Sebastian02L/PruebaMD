@@ -72,13 +72,13 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 ![Rana Flecha Roja y Azul (Oophaga pumilio) - EcoRegistros](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.005.jpeg)!
 
-Descripción generada automáticamente con confianza baja](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.006.png)
+![](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.006.png)!
 
 `    		`**“Rana Punta de Flecha”		“Boceto de personaje Punta de Flecha”**
 
 - **Rana Toro**, conocida también por su nombre científico “***Lithobates catesbeianus”***, presente en muchos continentes, es una especie que puede llegar a medir 20 cm de largo y llegar a pesar casi un kilo. 
 
-![Rana toro africana (Pyxicephalus adspersus)](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.007.jpeg)
+![](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.007.jpeg)
 
 `                                                                                               `
 
@@ -88,11 +88,9 @@ Descripción generada automáticamente con confianza baja](Aspose.Words.3fe796b4
 
 
 
-- ![Rana Trepadora Chaqueña (Boana raniceps) - EcoRegistros](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.009.jpeg)**Rana Trepadora,** cuyo nombre científico es “***Boana pulchella***”, se distribuye por la mayor parte de América de Sur, en arroyos y lagunas. Se caracteriza por su piel de color verde o amarillo uniforme, su pequeño tamaño y el volumen de su saco vocal al hincharse. 
+- ![](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.009.jpeg)**Rana Trepadora,** cuyo nombre científico es “***Boana pulchella***”, se distribuye por la mayor parte de América de Sur, en arroyos y lagunas. Se caracteriza por su piel de color verde o amarillo uniforme, su pequeño tamaño y el volumen de su saco vocal al hincharse. 
 
-![Forma
-
-Descripción generada automáticamente](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.010.png)
+![](Aspose.Words.3fe796b4-e96a-4976-8fc8-f2c5bbe902f2.010.png)
 
 **“Rana Trepadora”			    “Boceto de personaje Rana Trepadora”**
 
