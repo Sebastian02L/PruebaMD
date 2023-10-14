@@ -33,7 +33,7 @@ Sebastián Loges de Faria
 
 [3.	Mecánicas	](#_toc148190698)
 
-[4.	Estado del Juego	](#_toc148190699)
+[4.	Estados del Juego	](#_toc148190699)
 
 [5.	Interfaces	](#_toc148190700)
 
