@@ -294,7 +294,7 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 En este escenario la pelea se desarrolla en un tronco de madera que flota en un río en la selva. La base del escenario (el propio tronco) ocupa la pantalla de un lado a otro, y en el fondo se van viendo la espesa vegetación y los árboles de la selva, que se desplazan hacia la derecha, simulando que el tronco va río abajo. Entre el tronco y la vegetación, se ve el agua del rio que va cambiando y formando ondulaciones, simulando la corriente.
 
-![](ImagenesMD/JunglaConcept.png)
+![](ImagenesMD/JunglaConcept.jpeg)
 
 ***“Boceto del escenario Jungla”***
 
