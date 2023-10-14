@@ -60,8 +60,11 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 - **La Rana de Lluvia**, científicamente conocida como “***Breviceps gibbosus”,*** es una rana africana cuyas principales características son la forma esférica de su cuerpo y sus ojos oscuros, que le dan un aspecto de caricatura. 
 
 ![](ImagenesMD/LluviaReal.png)
-**“Rana de Lluvia”**                                 
+
+**“Rana de Lluvia”**     
+
 ![](ImagenesMD/LluviaConcept.png)
+
 **“Concept Rana de Lluvia”**
 
 - **Rana Punta de Flecha**, con “***Dendrobatidae*”** como su nombre científico**,** originaria de América del Sur, es una rana venenosa que llama la atención de sus depredadoras con sus patrones y colores brillantes, cuanto más llamativos son, más tóxico es el contacto con estas.
