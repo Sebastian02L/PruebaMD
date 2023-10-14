@@ -44,7 +44,7 @@ Sebastián Loges de Faria
 
 
 
-1. # <a name="_toc148190696"></a>Introducción
+ # <a name="_toc148190696"></a>Introducción
 **Ribbit Rumble** es un juego en red multijugador perteneciente al género de lucha, donde dos jugadores lucharán entre ellos en cada partida. Los personajes del juego están tematizados con ranas cuyas habilidades en combate dependerán de su especie.
 
 El videojuego tiene una calificación PEGI 12, ya que es apto para todos los públicos, pero puede contener escenas que podrían afectar a algunos jugadores. Se busca atraer la atención de un público casual, que disfrute de los juegos de lucha donde puedan emplear diversas estrategias para vencer a su contrincante.
@@ -54,7 +54,7 @@ El estilo artístico del videojuego es “cartoon 2D”. Este estilo ayudará a 
 **Ribbit Rumble** será el primer juego de la saga, con el que buscamos conseguir la mayor cantidad de jugadores posible, que estén interesados en los enfrentamientos uno contra uno. El videojuego estará disponible para PC a través de diversas tiendas digitales. De esta manera, al ser una de las plataformas con más usuarios actualmente, el juego estará al alcance de un alto porcentaje de jugadores.
 
 La jugabilidad en red se conseguirá con una arquitectura cliente/servidor, con una comunicación sustentada por una API REST y WebSockets. Un ordenador actuará como servidor mientras que otros dos actuarán como clientes. 
-1. # <a name="_toc148190697"></a>Personajes
+ # <a name="_toc148190697"></a>Personajes
 Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de diferentes especies, como se mencionó anteriormente:
 
 - **La Rana de Lluvia**, científicamente conocida como “***Breviceps gibbosus”,*** es una rana africana cuyas principales características son la forma esférica de su cuerpo y sus ojos oscuros, que le dan un aspecto de caricatura. 
@@ -97,7 +97,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 **“Boceto de personaje Rana Trepadora”**
 
-1. # <a name="_toc148190698"></a>Mecánicas
+ # <a name="_toc148190698"></a>Mecánicas
 La perspectiva del juego será una cámara lateral fija que mostrará todo el escenario donde se desarrollará el combate.
 
 El juego compartirá muchas mecánicas presentes en otros videojuegos del género de lucha. Empezando por el movimiento básico de los personajes. Los jugadores podrán moverse a la izquierda y a la derecha, así como saltar y agacharse. Las teclas que permitirán esto son la “A”, “D”, “W” y la “S”.  
@@ -197,7 +197,7 @@ La mayoría de los ataques variarán en la velocidad y la animación para cada p
 
 -Ataque especial: Pega un latigazo delante de él con su lengua, causando un golpe poderoso en el rival.
 
-1. # <a name="_toc148190699"></a>Estado del Juego
+ # <a name="_toc148190699"></a>Estado del Juego
 En este apartado se muestra de forma gráfica los estados por los que se va a mover el juego. Se empieza en el “Menú Principal” desde el cual se puede acceder al “Menú de selección de Modo”, “Menú de Ajustes” y a la opción “Salir del Juego”. Siguiendo el flujo, después de elegir el modo de juego y los personajes, los jugadores escogerán el escenario donde lucharán en “Selección de Mapa”, luego pasan al estado de “Juego” donde el primer jugador en ganar dos rondas será el ganador.
 
 Al acabar la partida se mostrará una “Pantalla de Resultados” con una serie de estadísticas. Desde este estado se puede seguir el flujo hacia el “Menú Principal” o a la “Selección de Personajes” en caso de querer empezar rápidamente una nueva partida. Desde ciertos estados se permite un flujo de ida y vuelta, como por ejemplo entre el “Menú Principal” y el “Menú de Ajustes”.
@@ -206,7 +206,7 @@ Al acabar la partida se mostrará una “Pantalla de Resultados” con una serie
 
 ***” Diagrama de Estados del Juego”***
 
-1. # <a name="_toc148190700"></a>Interfaces
+ # <a name="_toc148190700"></a>Interfaces
 En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 - **Menú Principal:** Con el título del juego en la parte superior y dos ranas haciendo un pulso, el menú principal es la primera pantalla que verán los jugadores. En ella el jugador podrá pulsar tres botones:
@@ -237,17 +237,20 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 ***“Concept del Menú de selección de Personajes”***
 
 ![](ImagenesMD/TrepadoraPersonaje.png)
+
 ![](ImagenesMD/FlechaPersonaje.png)
+
 ![](ImagenesMD/LluviaPersonaje.png)
+
 ![](ImagenesMD/ToroPersonaje.png)
 
-***”Dibujo de los personajes a cuerpo completo”***
+**”Dibujo de los personajes a cuerpo completo”**
 
 - **Menú de Selección de Mapa:** En el centro de la pantalla se dispondrán tres mapas y una cuarta opción, que consiste en elegir uno de los tres mapas anteriores de forma aleatoria. Sobre el mapa que elija cada jugador saldrá J1 o J2, para aclarar cuál ha elegido cada uno. Además, a ambos lados de la pantalla saldrá en grande el mapa escogido por estos, y cuando se seleccione el mapa final en el que jugar, se decidirá a través de un parpadeo aleatorio entre ambos mapas y el elegido se iluminará.
 
 ![](ImagenesMD/PMapas.png)
 
-***“Concept de la Interfaz de selección de mapas”***
+**“Concept de la Interfaz de selección de mapas”**
 
 - **Interfaz en Partida:** Dentro de la partida la interfaz estará situada en la zona superior de la pantalla, mostrando el icono del personaje de ambos jugadores, sus barras de vida y habilidades especiales. En el centro de esta interfaz se encuentra el temporizador de la partida y el contador de rondas ganadas, simbolizadas con unas fichas con un dibujo de la cabeza de una mosca. En el paso a la siguiente ronda, la barra de vida es reestablecida.
 
@@ -255,7 +258,7 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 ![](ImagenesMD/InterfazIG.png)
 
-***“Concept de la Interfaz InGame”***
+**“Concept de la Interfaz InGame”**
 
 
 - **Pantalla de Resultados:** En la pantalla de resultados se mostrarán los personajes utilizados en pose de victoria o derrota según el jugador que haya ganado o perdido. Además, también se mostrarán el número de rondas ganadas por cada jugador en la partida y la duración total de esta.
@@ -264,7 +267,7 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 ***“Concept de la Pantalla de Resultados con Rana Toro (Izquierda) como ganador y Rana Punta de Flecha (Derecha) como perdedor”***
 
-1. # <a name="_toc148190701"></a>Niveles
+ # <a name="_toc148190701"></a>Niveles
 **Jungla:**
 
 En este escenario la pelea se desarrolla en un tronco de madera que flota en un río en la selva. La base del escenario (el propio tronco) ocupa la pantalla de un lado a otro, y en el fondo se van viendo la espesa vegetación y los árboles de la selva, que se desplazan hacia la derecha, simulando que el tronco va río abajo. Entre el tronco y la vegetación, se ve el agua del rio que va cambiando y formando ondulaciones, simulando la corriente.
@@ -289,7 +292,7 @@ En este escenario los jugadores pelearan encima de un nenúfar situado en un lag
 
 ***“Boceto del Nenúfar”***
 
-1. # <a name="_toc148190702"></a>Música y Sonidos
+ # <a name="_toc148190702"></a>Música y Sonidos
 En el menú principal sonará una canción de rock para acompañar a la imagen de las ranas musculadas, esta misma seguirá sonando en bucle hasta que se entre en una partida.
 
 Durante la partida, comenzará a sonar una canción concreta en función del mapa, pero con la diferencia de que estas tendrán un tono más gracioso que la del menú, acompañando a la apariencia “cartoon” de los personajes jugables que, como ya se vio en apartados anteriores, no es la misma que tienen en los menús previos a la partida. Además de la música de fondo, durante el gameplay, también se escucharán efectos sonoros tanto de la batalla como del escenario. 
