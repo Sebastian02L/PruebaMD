@@ -89,7 +89,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **Rana Trepadora,** cuyo nombre científico es “***Boana pulchella***”, se distribuye por la mayor parte de América de Sur, en arroyos y lagunas. Se caracteriza por su piel de color verde o amarillo uniforme, su pequeño tamaño y el volumen de su saco vocal al hincharse. 
 
-![](ImagenesMD/TrepadoraReal.pn)
+![](ImagenesMD/TrepadoraReal.png)
 
 **“Rana Trepadora”**
 
