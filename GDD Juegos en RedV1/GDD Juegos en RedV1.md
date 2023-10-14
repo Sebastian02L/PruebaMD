@@ -69,25 +69,33 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **Rana Punta de Flecha**, con “***Dendrobatidae*”** como su nombre científico**,** originaria de América del Sur, es una rana venenosa que llama la atención de sus depredadoras con sus patrones y colores brillantes, cuanto más llamativos son, más tóxico es el contacto con estas.
 
-![](ImagenesMD/FlechaReal.jpeg)![](ImagenesMD/FlechaConcept.png)
+![](ImagenesMD/FlechaReal.jpeg)!
 
-**“Rana Punta de Flecha”		“Boceto de personaje Punta de Flecha”**
+**“Rana Punta de Flecha”**
+
+[](ImagenesMD/FlechaConcept.png)
+
+**“Boceto de personaje Punta de Flecha”**
 
 - **Rana Toro**, conocida también por su nombre científico “***Lithobates catesbeianus”***, presente en muchos continentes, es una especie que puede llegar a medir 20 cm de largo y llegar a pesar casi un kilo. Se caracteriza por comerse a otras ranas.
 
-![](ImagenesMD/ToroReal.jpeg)![](ImagenesMD/ToroConcept.png)
+![](ImagenesMD/ToroReal.jpeg)
 
-**“Rana Toro”				“Boceto de personaje Rana Toro”**
+**“Rana Toro”**
 
+![](ImagenesMD/ToroConcept.png)
 
-
-
+**“Boceto de personaje Rana Toro”**
 
 - **Rana Trepadora,** cuyo nombre científico es “***Boana pulchella***”, se distribuye por la mayor parte de América de Sur, en arroyos y lagunas. Se caracteriza por su piel de color verde o amarillo uniforme, su pequeño tamaño y el volumen de su saco vocal al hincharse. 
 
-![](ImagenesMD/TrepadoraReal.jpeg)![](ImagenesMD/TrepadoraConcept.png)
+![](ImagenesMD/TrepadoraReal.jpeg)
 
-**“Rana Trepadora”			    “Boceto de personaje Rana Trepadora”**
+**“Rana Trepadora”**
+
+![](ImagenesMD/TrepadoraConcept.png)
+
+**“Boceto de personaje Rana Trepadora”**
 
 1. # <a name="_toc148190698"></a>Mecánicas
 La perspectiva del juego será una cámara lateral fija que mostrará todo el escenario donde se desarrollará el combate.
@@ -197,6 +205,7 @@ Al acabar la partida se mostrará una “Pantalla de Resultados” con una serie
 ![](ImagenesMD/EstadoJuego.png)
 
 ***” Diagrama de Estados del Juego”***
+
 1. # <a name="_toc148190700"></a>Interfaces
 En cuanto a las interfaces del juego, estas se detallan a continuación:
 
@@ -204,9 +213,11 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 - **Combate:** Con este botón se le dará a elegir al jugador entre juego en local o en red.
 - **Ajustes:** Con este botón se abrirá el menú de ajustes.
-- ![](ImagenesMD/PPrincipal.jpeg)**Salir del juego:** Con este botón se cerrará el juego.
+- **Salir del juego:** Con este botón se cerrará el juego.
 
-***“Concept de la Interfaz del menú principal”***
+![](ImagenesMD/PPrincipal.jpeg)
+
+**“Concept de la Interfaz del menú principal”**
 
 - **Menú de Ajustes:** En este menú se podrán cambiar diferentes parámetros.
 
@@ -225,9 +236,10 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 ***“Concept del Menú de selección de Personajes”***
 
-![](ImagenesMD/TrepadoraPersonaje.png)![](ImagenesMD/FlechaPersonaje.png)
-
-![](ImagenesMD/LluviaPersonaje.png)![](ImagenesMD/ToroPersonaje.png)
+![](ImagenesMD/TrepadoraPersonaje.png)
+![](ImagenesMD/FlechaPersonaje.png)
+![](ImagenesMD/LluviaPersonaje.png)
+![](ImagenesMD/ToroPersonaje.png)
 
 ***”Dibujo de los personajes a cuerpo completo”***
 
@@ -251,6 +263,7 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 ![](ImagenesMD/PResultados.png)
 
 ***“Concept de la Pantalla de Resultados con Rana Toro (Izquierda) como ganador y Rana Punta de Flecha (Derecha) como perdedor”***
+
 1. # <a name="_toc148190701"></a>Niveles
 **Jungla:**
 
