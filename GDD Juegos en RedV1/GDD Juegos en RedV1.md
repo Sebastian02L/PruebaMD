@@ -154,11 +154,7 @@ En la siguiente tabla se muestran los controles para ambos jugadores en función
 </table>
 
 
-|Leyenda| |
-| :- | :- |
-| |Jugador 1 y 2|
-| |Jugador 1|
-| |Jugador 2|
+
 
 A continuación, se detallan los ataques de cada personaje, así como sus estadísticas:
 
@@ -270,7 +266,7 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 - **Menú de Selección de Mapa:** En el centro de la pantalla se dispondrán tres mapas y una cuarta opción, que consiste en elegir uno de los tres mapas anteriores de forma aleatoria. Sobre el mapa que elija cada jugador saldrá J1 o J2, para aclarar cuál ha elegido cada uno. Además, a ambos lados de la pantalla saldrá en grande el mapa escogido por estos, y cuando se seleccione el mapa final en el que jugar, se decidirá a través de un parpadeo aleatorio entre ambos mapas y el elegido se iluminará.
 
-![](ImagenesMD/PMapas.pn)
+![](ImagenesMD/PMapas.png)
 
 **“Concept de la Interfaz de selección de mapas”**
 
