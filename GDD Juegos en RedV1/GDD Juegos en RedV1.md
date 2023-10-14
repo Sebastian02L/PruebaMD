@@ -1,38 +1,38 @@
 ﻿![](LogoURJC.png)
 
-Nombre del Juego: Ribbit Rumble
+**Nombre del Juego: Ribbit Rumble**
 
-Temática: Juego de Lucha 2D de ranas estilo Cartoon
+**Temática: Juego de Lucha 2D de ranas estilo Cartoon**
 
 
-Miembros del equipo de Desarrollo:
+**Miembros del equipo de Desarrollo:**
 
 Carlos Santayana Vicente                  
 
-Correo institucional: c.santayana.2021@alumnos.urjc.es
+*Correo institucional: c.santayana.2021@alumnos.urjc.es*
 
-Usuario de GitHub: carlossantayana	 
+*Usuario de GitHub: carlossantayana*
 
 
 Alejandro Pérez Carretero         
 
-Correo institucional: a.perezc.2021@alumnos.urjc.es
+*Correo institucional: a.perezc.2021@alumnos.urjc.es*
 
-Usuario de GitHub: AlexPC03
+*Usuario de GitHub: AlexPC03*
 
 
 Sebastián Loges de Faria
 
-Correo institucional: s.loges.2021@alumnos.urjc.es
+*Correo institucional: s.loges.2021@alumnos.urjc.es*
 
-Usuario de GitHub: Sebastian02L
+*Usuario de GitHub: Sebastian02L*
 
 
 Marcos De Ozaeta Cabadas
 
-Correo institucional: m.deozaeta.2021@alumnos.ujrc.es
+*Correo institucional: m.deozaeta.2021@alumnos.ujrc.es*
 
-Usuario de GitHub: Mdoc14
+*Usuario de GitHub: Mdoc14*
 
 **Documento de Diseño del Juego “Ribbit Rumble”**
 
