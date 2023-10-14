@@ -61,7 +61,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 ![](ImagenesMD/LluviaReal.png)
 
-**“Rana de Lluvia”**     
+<center>**“Rana de Lluvia”**</center>     
 
 ![](ImagenesMD/LluviaConcept.png)
 
