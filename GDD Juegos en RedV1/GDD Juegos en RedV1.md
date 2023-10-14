@@ -69,7 +69,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **Rana Punta de Flecha**, con “***Dendrobatidae*”** como su nombre científico**,** originaria de América del Sur, es una rana venenosa que llama la atención de sus depredadoras con sus patrones y colores brillantes, cuanto más llamativos son, más tóxico es el contacto con estas.
 
-![](ImagenesMD/FlechaReal.jpeg)!
+![](ImagenesMD/FlechaReal.jpeg)
 
 **“Rana Punta de Flecha”**
 
