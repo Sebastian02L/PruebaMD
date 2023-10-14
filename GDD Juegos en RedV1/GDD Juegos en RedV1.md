@@ -1,12 +1,20 @@
-﻿![Forma
+﻿![](LogoURJC.png)
 
-Descripción generada automáticamente con confianza media](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.001.png)Carlos Santayana Vicente                                  Juegos en Red
+Nombre del Juego: Ribbit Rumble
+Temática: Juego de Lucha 2D de ranas estilo Cartoon
+Miembros del equipo de Desarrollo:
 
-Marcos De Ozaeta Cabadas			 Madrid (Quintana)
+Carlos Santayana Vicente                                  
+Correo institucional: c.santayana.2021@alumnos.urjc.es
+Usuario de GitHub: carlossantayana	 
 
-Alejandro Pérez Carretero         3º Grado en Diseño y Desarrollo de Videojuegos
+Alejandro Pérez Carretero         
+Correo institucional: a.perezc.2021@alumnos.urjc.es
+Usuario de GitHub: AlexPC03
 
 Sebastián Loges de Faria
+Correo institucional: s.loges.2021@alumnos.urjc.es
+Usuario de GitHub: Sebastian02L
 
 **Documento de Diseño del Juego “Ribbit Rumble”**
 
@@ -69,7 +77,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **Rana Punta de Flecha**, con “***Dendrobatidae*”** como su nombre científico**,** originaria de América del Sur, es una rana venenosa que llama la atención de sus depredadoras con sus patrones y colores brillantes, cuanto más llamativos son, más tóxico es el contacto con estas.
 
-![](ImagenesMD/FlechaReal.jpp)
+![](ImagenesMD/FlechaReal.png)
 
 ***“Rana Punta de Flecha”***
 
