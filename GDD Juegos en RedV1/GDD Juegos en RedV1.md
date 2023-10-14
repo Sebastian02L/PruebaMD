@@ -72,7 +72,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 ![](ImagenesMD/FlechaReal.jpeg)![](ImagenesMD/FlechaConcept.png)
 
-`    		`**“Rana Punta de Flecha”		“Boceto de personaje Punta de Flecha”**
+**“Rana Punta de Flecha”		“Boceto de personaje Punta de Flecha”**
 
 - **Rana Toro**, conocida también por su nombre científico “***Lithobates catesbeianus”***, presente en muchos continentes, es una especie que puede llegar a medir 20 cm de largo y llegar a pesar casi un kilo. Se caracteriza por comerse a otras ranas.
 
