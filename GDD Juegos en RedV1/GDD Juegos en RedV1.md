@@ -10,7 +10,7 @@ Sebastián Loges de Faria
 
 **Documento de Diseño del Juego “Ribbit Rumble”**
 
-![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.002.png)
+![](ImagenesMD/RibbitRumbleLogo.png)
 
 
 
