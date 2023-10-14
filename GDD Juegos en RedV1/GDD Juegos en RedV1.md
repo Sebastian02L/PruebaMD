@@ -69,7 +69,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **Rana Punta de Flecha**, con “***Dendrobatidae*”** como su nombre científico**,** originaria de América del Sur, es una rana venenosa que llama la atención de sus depredadoras con sus patrones y colores brillantes, cuanto más llamativos son, más tóxico es el contacto con estas.
 
-![](ImagenesMD/FlechaReal.jpg)
+![](ImagenesMD/FlechaReal.jpp)
 
 **“Rana Punta de Flecha”**
 
@@ -79,7 +79,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **Rana Toro**, conocida también por su nombre científico “***Lithobates catesbeianus”***, presente en muchos continentes, es una especie que puede llegar a medir 20 cm de largo y llegar a pesar casi un kilo. Se caracteriza por comerse a otras ranas.
 
-![](ImagenesMD/ToroReal.jpeg)
+![](ImagenesMD/ToroReal.png)
 
 **“Rana Toro”**
 
@@ -89,7 +89,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **Rana Trepadora,** cuyo nombre científico es “***Boana pulchella***”, se distribuye por la mayor parte de América de Sur, en arroyos y lagunas. Se caracteriza por su piel de color verde o amarillo uniforme, su pequeño tamaño y el volumen de su saco vocal al hincharse. 
 
-![](ImagenesMD/TrepadoraReal.jpeg)
+![](ImagenesMD/TrepadoraReal.png)
 
 **“Rana Trepadora”**
 
@@ -215,7 +215,7 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 - **Ajustes:** Con este botón se abrirá el menú de ajustes.
 - **Salir del juego:** Con este botón se cerrará el juego.
 
-![](ImagenesMD/PPrincipal.jpeg)
+![](ImagenesMD/PPrincipal.png)
 
 **“Concept de la Interfaz del menú principal”**
 
@@ -248,7 +248,7 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 - **Menú de Selección de Mapa:** En el centro de la pantalla se dispondrán tres mapas y una cuarta opción, que consiste en elegir uno de los tres mapas anteriores de forma aleatoria. Sobre el mapa que elija cada jugador saldrá J1 o J2, para aclarar cuál ha elegido cada uno. Además, a ambos lados de la pantalla saldrá en grande el mapa escogido por estos, y cuando se seleccione el mapa final en el que jugar, se decidirá a través de un parpadeo aleatorio entre ambos mapas y el elegido se iluminará.
 
-![](ImagenesMD/PMapas.png)
+![](ImagenesMD/PMapas.pn)
 
 **“Concept de la Interfaz de selección de mapas”**
 
@@ -288,7 +288,7 @@ La pelea toma lugar encima de unos ladrillos que formaban parte de una vieja pir
 
 En este escenario los jugadores pelearan encima de un nenúfar situado en un lago en mitad del bosque. En el fondo se verán dos árboles frondosos. El nenúfar donde batallarán las ranas está flotando, por lo que se apreciará un suave movimiento arriba y abajo.*** 
 
-![](ImagenesMD/NenufarConcept.jpeg)
+![](ImagenesMD/NenufarConcept.png)
 
 ***“Boceto del Nenúfar”***
 
