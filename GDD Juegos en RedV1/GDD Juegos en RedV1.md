@@ -73,7 +73,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 **“Rana Punta de Flecha”**
 
-[](ImagenesMD/FlechaConcept.png)
+![](ImagenesMD/FlechaConcept.png)
 
 **“Boceto de personaje Punta de Flecha”**
 
