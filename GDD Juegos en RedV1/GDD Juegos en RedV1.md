@@ -27,19 +27,19 @@ Sebastián Loges de Faria
 
 
 # Índice
-[1.	Introducción	3](#_toc148190696)
+[1.	Introducción	](#_toc148190696)
 
-[2.	Personajes	3](#_toc148190697)
+[2.	Personajes	](#_toc148190697)
 
-[3.	Mecánicas	5](#_toc148190698)
+[3.	Mecánicas	](#_toc148190698)
 
-[4.	Estado del Juego	8](#_toc148190699)
+[4.	Estado del Juego	](#_toc148190699)
 
-[5.	Interfaces	8](#_toc148190700)
+[5.	Interfaces	](#_toc148190700)
 
-[6.	Niveles	12](#_toc148190701)
+[6.	Niveles	](#_toc148190701)
 
-[7.	Música y Sonidos	14](#_toc148190702)
+[7.	Música y Sonidos	](#_toc148190702)
 
 
 
@@ -59,7 +59,7 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **La Rana de Lluvia**, científicamente conocida como “***Breviceps gibbosus”,*** es una rana africana cuyas principales características son la forma esférica de su cuerpo y sus ojos oscuros, que le dan un aspecto de caricatura. 
 
-![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.003.png)![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.004.png)
+![](ImagenesMD/LluviaReal.png)![](ImagenesMD/LluviaConcept.png)
 
 
 
@@ -70,19 +70,13 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **Rana Punta de Flecha**, con “***Dendrobatidae*”** como su nombre científico**,** originaria de América del Sur, es una rana venenosa que llama la atención de sus depredadoras con sus patrones y colores brillantes, cuanto más llamativos son, más tóxico es el contacto con estas.
 
-![Rana Flecha Roja y Azul (Oophaga pumilio) - EcoRegistros](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.005.jpeg)![Un dibujo de una cara con ojos y boca
-
-Descripción generada automáticamente con confianza baja](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.006.png)
+![](ImagenesMD/FlechaReal.jpeg)![](ImagenesMD/FlechaConcept.png)
 
 `    		`**“Rana Punta de Flecha”		“Boceto de personaje Punta de Flecha”**
 
 - **Rana Toro**, conocida también por su nombre científico “***Lithobates catesbeianus”***, presente en muchos continentes, es una especie que puede llegar a medir 20 cm de largo y llegar a pesar casi un kilo. Se caracteriza por comerse a otras ranas.
 
-![Rana toro africana (Pyxicephalus adspersus)](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.007.jpeg)
-
-`                                                                                               `![Diagrama
-
-Descripción generada automáticamente](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.008.png)
+![](ImagenesMD/ToroReal.jpeg)![](ImagenesMD/ToroConcept.png)
 
 **“Rana Toro”				“Boceto de personaje Rana Toro”**
 
@@ -90,11 +84,9 @@ Descripción generada automáticamente](Aspose.Words.839df14c-6460-496e-90fa-dc4
 
 
 
-- ![Rana Trepadora Chaqueña (Boana raniceps) - EcoRegistros](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.009.jpeg)**Rana Trepadora,** cuyo nombre científico es “***Boana pulchella***”, se distribuye por la mayor parte de América de Sur, en arroyos y lagunas. Se caracteriza por su piel de color verde o amarillo uniforme, su pequeño tamaño y el volumen de su saco vocal al hincharse. 
+- ![](ImagenesMD/TrepadoraReal.jpeg)**Rana Trepadora,** cuyo nombre científico es “***Boana pulchella***”, se distribuye por la mayor parte de América de Sur, en arroyos y lagunas. Se caracteriza por su piel de color verde o amarillo uniforme, su pequeño tamaño y el volumen de su saco vocal al hincharse. 
 
-![Forma
-
-Descripción generada automáticamente](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.010.png)
+![](ImagenesMD/TrepadoraConcept.png)
 
 **“Rana Trepadora”			    “Boceto de personaje Rana Trepadora”**
 
@@ -203,7 +195,7 @@ En este apartado se muestra de forma gráfica los estados por los que se va a mo
 
 Al acabar la partida se mostrará una “Pantalla de Resultados” con una serie de estadísticas. Desde este estado se puede seguir el flujo hacia el “Menú Principal” o a la “Selección de Personajes” en caso de querer empezar rápidamente una nueva partida. Desde ciertos estados se permite un flujo de ida y vuelta, como por ejemplo entre el “Menú Principal” y el “Menú de Ajustes”.
 
-![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.011.png)
+![](ImagenesMD/EstadoJuego.png)
 
 ***” Diagrama de Estados del Juego”***
 1. # <a name="_toc148190700"></a>Interfaces
@@ -213,7 +205,7 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 - **Combate:** Con este botón se le dará a elegir al jugador entre juego en local o en red.
 - **Ajustes:** Con este botón se abrirá el menú de ajustes.
-- ![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.012.jpeg)**Salir del juego:** Con este botón se cerrará el juego.
+- ![](ImagenesMD/PPrincipal.jpeg)**Salir del juego:** Con este botón se cerrará el juego.
 
 ***“Concept de la Interfaz del menú principal”***
 
@@ -224,48 +216,25 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 - **Volumen de efectos de sonido:** Controla el volumen de los efectos de sonido del juego (golpes, acciones, …).
 - **Brillo:** Controla el brillo de la pantalla.
 
-![Gráfico
-
-Descripción generada automáticamente con confianza media](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.013.png)
+![](ImagenesMD/PAjustes.png)
 
 ***“Concept de la Interfaz de menú de ajustes”***
 
 - **Menú de Selección de Personajes:** En el centro de la pantalla se encuentran los “logos” de los cuatro personajes jugables, a los lados de la pantalla se mostrará un dibujo a cuerpo completo de la rana escogida por el jugador 1 y 2 respectivamente. Ambos jugadores podrán elegir la misma rana.
 
-![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.014.png)
+![](ImagenesMD/PPersonajes.png)
 
 ***“Concept del Menú de selección de Personajes”***
 
-![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.015.png)![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.016.png)
+![](ImagenesMD/TrepadoraPersonaje.png)![](ImagenesMD/FlechaPersonaje.png)
 
-![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.017.png)
-
-
-
-
-
-
-
-
-
-![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.018.png)
-
-
-
-
-
-
-
-
-
+![](ImagenesMD/LluviaPersonaje.png)![](ImagenesMD/ToroPersonaje.png)
 
 ***”Dibujo de los personajes a cuerpo completo”***
 
 - **Menú de Selección de Mapa:** En el centro de la pantalla se dispondrán tres mapas y una cuarta opción, que consiste en elegir uno de los tres mapas anteriores de forma aleatoria. Sobre el mapa que elija cada jugador saldrá J1 o J2, para aclarar cuál ha elegido cada uno. Además, a ambos lados de la pantalla saldrá en grande el mapa escogido por estos, y cuando se seleccione el mapa final en el que jugar, se decidirá a través de un parpadeo aleatorio entre ambos mapas y el elegido se iluminará.
 
-![Diagrama, Dibujo de ingeniería
-
-Descripción generada automáticamente](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.019.png)
+![](ImagenesMD/PMapas.png)
 
 ***“Concept de la Interfaz de selección de mapas”***
 
@@ -273,14 +242,14 @@ Descripción generada automáticamente](Aspose.Words.839df14c-6460-496e-90fa-dc4
 
 
 
-![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.020.png)
+![](ImagenesMD/InterfazIG.png)
 
 ***“Concept de la Interfaz InGame”***
 
 
 - **Pantalla de Resultados:** En la pantalla de resultados se mostrarán los personajes utilizados en pose de victoria o derrota según el jugador que haya ganado o perdido. Además, también se mostrarán el número de rondas ganadas por cada jugador en la partida y la duración total de esta.
 
-![Imagen que contiene Forma](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.021.png)
+![](ImagenesMD/PResultados.png)
 
 ***“Concept de la Pantalla de Resultados con Rana Toro (Izquierda) como ganador y Rana Punta de Flecha (Derecha) como perdedor”***
 1. # <a name="_toc148190701"></a>Niveles
@@ -288,9 +257,7 @@ Descripción generada automáticamente](Aspose.Words.839df14c-6460-496e-90fa-dc4
 
 En este escenario la pelea se desarrolla en un tronco de madera que flota en un río en la selva. La base del escenario (el propio tronco) ocupa la pantalla de un lado a otro, y en el fondo se van viendo la espesa vegetación y los árboles de la selva, que se desplazan hacia la derecha, simulando que el tronco va río abajo. Entre el tronco y la vegetación, se ve el agua del rio que va cambiando y formando ondulaciones, simulando la corriente.
 
-![Un dibujo de un mapa
-
-Descripción generada automáticamente con confianza media](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.022.png)
+![](ImagenesMD/JunglaConcept.png)
 
 ***“Boceto del escenario Jungla”***
 
@@ -298,7 +265,7 @@ Descripción generada automáticamente con confianza media](Aspose.Words.839df14
 
 La pelea toma lugar encima de unos ladrillos que formaban parte de una vieja pirámide. Alrededor se puede ver una barrera de cactus y entre esta y el suelo hay un montículo de arena que tapa parte de los ladrillos. Detrás de los cactus se puede ver una explanada de arena y rocas pequeñas. A lo lejos se puede apreciar una enorme pirámide en contraste con el cielo, y en el lado contrario a este hay un oasis con palmeras que se reflejan sobre el agua cristalina. A lo largo de la batalla las nubes del cielo se van desplazando desde la izquierda hasta la derecha, así como rayos del sol que van apareciendo y desapareciendo sobre el escenario.
 
-![](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.023.png)
+![](ImagenesMD/DesiertoConcept.png)
 
 ***“Boceto del escenario del Desierto”***
 
@@ -306,9 +273,7 @@ La pelea toma lugar encima de unos ladrillos que formaban parte de una vieja pir
 
 En este escenario los jugadores pelearan encima de un nenúfar situado en un lago en mitad del bosque. En el fondo se verán dos árboles frondosos. El nenúfar donde batallarán las ranas está flotando, por lo que se apreciará un suave movimiento arriba y abajo.*** 
 
-![Un dibujo de un mapa
-
-Descripción generada automáticamente con confianza media](Aspose.Words.839df14c-6460-496e-90fa-dc469da3ab30.024.jpeg)
+![](ImagenesMD/NenufarConcept.jpeg)
 
 ***“Boceto del Nenúfar”***
 
@@ -331,5 +296,5 @@ En la pantalla de resultados, sonarán aplausos mientras que de fondo se escucha
 
 Tanto en la pantalla de selección de personajes como de mapas, a la hora de seleccionar el personaje/mapa se escucharán diversos sonidos. En el caso de los personajes, su “ribbit” correspondiente, y para los mapas, alguno de los efectos mencionados anteriormente.
 
-2
+
 
