@@ -59,41 +59,41 @@ Los jugadores podrán escoger entre 4 personajes distintos, basados en ranas de 
 
 - **La Rana de Lluvia**, científicamente conocida como “***Breviceps gibbosus”,*** es una rana africana cuyas principales características son la forma esférica de su cuerpo y sus ojos oscuros, que le dan un aspecto de caricatura. 
 
-![](ImagenesMD/LluviaReal.pn)
+![](ImagenesMD/LluviaReal.png)
 
  **“Rana de Lluvia”**     
 
-![](ImagenesMD/LluviaConcept.pn)
+![](ImagenesMD/LluviaConcept.png)
 
 **“Concept Rana de Lluvia”**
 
 - **Rana Punta de Flecha**, con “***Dendrobatidae*”** como su nombre científico**,** originaria de América del Sur, es una rana venenosa que llama la atención de sus depredadoras con sus patrones y colores brillantes, cuanto más llamativos son, más tóxico es el contacto con estas.
 
-![](ImagenesMD/FlechaReal.jp)
+![](ImagenesMD/FlechaReal.jpp)
 
 **“Rana Punta de Flecha”**
 
-![](ImagenesMD/FlechaConcept.pn)
+![](ImagenesMD/FlechaConcept.png)
 
 **“Boceto de personaje Punta de Flecha”**
 
 - **Rana Toro**, conocida también por su nombre científico “***Lithobates catesbeianus”***, presente en muchos continentes, es una especie que puede llegar a medir 20 cm de largo y llegar a pesar casi un kilo. Se caracteriza por comerse a otras ranas.
 
-![](ImagenesMD/ToroReal.jpe)
+![](ImagenesMD/ToroReal.png)
 
 **“Rana Toro”**
 
-![](ImagenesMD/ToroConcept.pn)
+![](ImagenesMD/ToroConcept.png)
 
 **“Boceto de personaje Rana Toro”**
 
 - **Rana Trepadora,** cuyo nombre científico es “***Boana pulchella***”, se distribuye por la mayor parte de América de Sur, en arroyos y lagunas. Se caracteriza por su piel de color verde o amarillo uniforme, su pequeño tamaño y el volumen de su saco vocal al hincharse. 
 
-![](ImagenesMD/TrepadoraReal.jpe)
+![](ImagenesMD/TrepadoraReal.png)
 
 **“Rana Trepadora”**
 
-![](ImagenesMD/TrepadoraConcept.pn)
+![](ImagenesMD/TrepadoraConcept.png)
 
 **“Boceto de personaje Rana Trepadora”**
 
@@ -202,7 +202,7 @@ En este apartado se muestra de forma gráfica los estados por los que se va a mo
 
 Al acabar la partida se mostrará una “Pantalla de Resultados” con una serie de estadísticas. Desde este estado se puede seguir el flujo hacia el “Menú Principal” o a la “Selección de Personajes” en caso de querer empezar rápidamente una nueva partida. Desde ciertos estados se permite un flujo de ida y vuelta, como por ejemplo entre el “Menú Principal” y el “Menú de Ajustes”.
 
-![](ImagenesMD/EstadoJuego.pn)
+![](ImagenesMD/EstadoJuego.png)
 
 ***” Diagrama de Estados del Juego”***
 
@@ -215,7 +215,7 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 - **Ajustes:** Con este botón se abrirá el menú de ajustes.
 - **Salir del juego:** Con este botón se cerrará el juego.
 
-![](ImagenesMD/PPrincipal.jpe)
+![](ImagenesMD/PPrincipal.png)
 
 **“Concept de la Interfaz del menú principal”**
 
@@ -226,23 +226,23 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 - **Volumen de efectos de sonido:** Controla el volumen de los efectos de sonido del juego (golpes, acciones, …).
 - **Brillo:** Controla el brillo de la pantalla.
 
-![](ImagenesMD/PAjustes.pn)
+![](ImagenesMD/PAjustes.png)
 
 ***“Concept de la Interfaz de menú de ajustes”***
 
 - **Menú de Selección de Personajes:** En el centro de la pantalla se encuentran los “logos” de los cuatro personajes jugables, a los lados de la pantalla se mostrará un dibujo a cuerpo completo de la rana escogida por el jugador 1 y 2 respectivamente. Ambos jugadores podrán elegir la misma rana.
 
-![](ImagenesMD/PPersonajes.pn)
+![](ImagenesMD/PPersonajes.png)
 
 ***“Concept del Menú de selección de Personajes”***
 
-![](ImagenesMD/TrepadoraPersonaje.pn)
+![](ImagenesMD/TrepadoraPersonaje.png)
 
-![](ImagenesMD/FlechaPersonaje.pn)
+![](ImagenesMD/FlechaPersonaje.png)
 
-![](ImagenesMD/LluviaPersonaje.pn)
+![](ImagenesMD/LluviaPersonaje.png)
 
-![](ImagenesMD/ToroPersonaje.pn)
+![](ImagenesMD/ToroPersonaje.png)
 
 **”Dibujo de los personajes a cuerpo completo”**
 
@@ -256,14 +256,14 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 
 
-![](ImagenesMD/InterfazIG.pn)
+![](ImagenesMD/InterfazIG.png)
 
 **“Concept de la Interfaz InGame”**
 
 
 - **Pantalla de Resultados:** En la pantalla de resultados se mostrarán los personajes utilizados en pose de victoria o derrota según el jugador que haya ganado o perdido. Además, también se mostrarán el número de rondas ganadas por cada jugador en la partida y la duración total de esta.
 
-![](ImagenesMD/PResultados.pn)
+![](ImagenesMD/PResultados.png)
 
 ***“Concept de la Pantalla de Resultados con Rana Toro (Izquierda) como ganador y Rana Punta de Flecha (Derecha) como perdedor”***
 
@@ -272,7 +272,7 @@ En cuanto a las interfaces del juego, estas se detallan a continuación:
 
 En este escenario la pelea se desarrolla en un tronco de madera que flota en un río en la selva. La base del escenario (el propio tronco) ocupa la pantalla de un lado a otro, y en el fondo se van viendo la espesa vegetación y los árboles de la selva, que se desplazan hacia la derecha, simulando que el tronco va río abajo. Entre el tronco y la vegetación, se ve el agua del rio que va cambiando y formando ondulaciones, simulando la corriente.
 
-![](ImagenesMD/JunglaConcept.pn)
+![](ImagenesMD/JunglaConcept.png)
 
 ***“Boceto del escenario Jungla”***
 
@@ -280,7 +280,7 @@ En este escenario la pelea se desarrolla en un tronco de madera que flota en un 
 
 La pelea toma lugar encima de unos ladrillos que formaban parte de una vieja pirámide. Alrededor se puede ver una barrera de cactus y entre esta y el suelo hay un montículo de arena que tapa parte de los ladrillos. Detrás de los cactus se puede ver una explanada de arena y rocas pequeñas. A lo lejos se puede apreciar una enorme pirámide en contraste con el cielo, y en el lado contrario a este hay un oasis con palmeras que se reflejan sobre el agua cristalina. A lo largo de la batalla las nubes del cielo se van desplazando desde la izquierda hasta la derecha, así como rayos del sol que van apareciendo y desapareciendo sobre el escenario.
 
-![](ImagenesMD/DesiertoConcept.pn)
+![](ImagenesMD/DesiertoConcept.png)
 
 ***“Boceto del escenario del Desierto”***
 
@@ -288,7 +288,7 @@ La pelea toma lugar encima de unos ladrillos que formaban parte de una vieja pir
 
 En este escenario los jugadores pelearan encima de un nenúfar situado en un lago en mitad del bosque. En el fondo se verán dos árboles frondosos. El nenúfar donde batallarán las ranas está flotando, por lo que se apreciará un suave movimiento arriba y abajo.*** 
 
-![](ImagenesMD/NenufarConcept.jpe)
+![](ImagenesMD/NenufarConcept.png)
 
 ***“Boceto del Nenúfar”***
 
