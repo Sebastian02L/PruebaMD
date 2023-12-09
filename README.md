@@ -320,6 +320,24 @@ En la pantalla de resultados, sonarán aplausos mientras que de fondo se escucha
 Tanto en la pantalla de selección de personajes como de mapas, a la hora de seleccionar el personaje/mapa se escucharán diversos sonidos. En el caso de los personajes, su “ribbit” correspondiente, y para los mapas, alguno de los efectos mencionados anteriormente.
 
 # <a name="_toc148190703"></a>Desarrollo
+Los colores de los personajes del videojuego son planos y con pocos detalles, para semejarse más el estilo cartoon buscado durante el desarrollo. 
+
+////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+**“Colores finales de los personajes”**
+
+Las animaciones de los personajes se implementan en el juego mediante una hoja de sprites hecha a mano, habiendo una hoja por cada animación con una cantidad de frames variable.
+
+
+Los colores de los escenarios siguen la misma tendencia, teniendo el mismo estilo artístico que los personajes.
+
+![](ImagenesMD/Desierto.png)
+***“Desierto”***
+
+![](ImagenesMD/Nenufar.png)
+***“Nenufar”***
+
+////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+***“Jungla”***
 
 # <a name="_toc148190704"></a>Mejoras para el Futuro
 Algunos aspectos comentados anteriormente en este documento no fueron implementados durante la fase de desarrollo inicial. Siendo entonces contenido que se ha recortado del juego, pero que se implementarán en el futuro. Dichos aspectos son:
