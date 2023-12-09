@@ -322,7 +322,11 @@ Tanto en la pantalla de selección de personajes como de mapas, a la hora de sel
 # <a name="_toc148190703"></a>Desarrollo
 
 # <a name="_toc148190704"></a>Mejoras para el Futuro
+Algunos aspectos comentados anteriormente en este documento no fueron implementados durante la fase de desarrollo inicial. Siendo entonces contenido que se ha recortado del juego, pero que se implementarán en el futuro. Dichos aspectos son:
 
+1. Ataque ascendente, aéreo y especial de los personajes.
+2. Animaciones de los escenarios.
+3. 
 # <a name="_toc148190705"></a>Referencias
 En este apartado están las referencias a las imágenes de terceros utilizadas que no son Creative Commons. El resto de las imágenes que no son de elaboración propia son de libre uso.
 
