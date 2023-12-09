@@ -322,7 +322,7 @@ Tanto en la pantalla de selección de personajes como de mapas, a la hora de sel
 # <a name="_toc148190703"></a>Desarrollo
 Los colores de los personajes del videojuego son planos y con pocos detalles, para semejarse más el estilo cartoon buscado durante el desarrollo. 
 
-////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+![](ImagenesMD/RanasColores.png)
 **“Colores finales de los personajes”**
 
 Las animaciones de los personajes se implementan en el juego mediante una hoja de sprites hecha a mano, habiendo una hoja por cada animación con una cantidad de frames variable.
