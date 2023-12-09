@@ -66,7 +66,11 @@ Marcos De Ozaeta Cabadas
 
 [7.	Música y Sonidos	](#_toc148190702)
 
-[8.	Referencias	](#_toc148190703)
+[8.	Desarrollo	](#_toc148190703)
+
+[11.	Mejoras para el Futuro	](#_toc148190704)
+
+[10.	Referencias	](#_toc148190705)
 
 
 
@@ -315,8 +319,12 @@ En la pantalla de resultados, sonarán aplausos mientras que de fondo se escucha
 
 Tanto en la pantalla de selección de personajes como de mapas, a la hora de seleccionar el personaje/mapa se escucharán diversos sonidos. En el caso de los personajes, su “ribbit” correspondiente, y para los mapas, alguno de los efectos mencionados anteriormente.
 
-En la pantalla de resultados, sonarán aplausos mientras que de fondo se escuchan "ribbits" de la rana ganadora.
+# <a name="_toc148190703"></a>Desarrollo
 
-#
+# <a name="_toc148190704"></a>Mejoras para el Futuro
 
-12
+# <a name="_toc148190705"></a>Referencias
+En este apartado están las referencias a las imágenes de terceros utilizadas que no son Creative Commons. El resto de las imágenes que no son de elaboración propia son de libre uso.
+
+[* foto de la rana Trepadora](https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1008+1676)
+
