@@ -322,7 +322,7 @@ Tanto en la pantalla de selección de personajes como de mapas, a la hora de sel
 # <a name="_toc148190703"></a>Desarrollo
 Los colores de los personajes del videojuego son planos y con pocos detalles, para semejarse más el estilo cartoon buscado durante el desarrollo. 
 
-![](ImagenesMD/RanasColores.png)
+![](ImagenesMD/RanasColor.png)
 **“Colores finales de los personajes”**
 
 Las animaciones de los personajes se implementan en el juego mediante una hoja de sprites hecha a mano, habiendo una hoja por cada animación con una cantidad de frames variable.
@@ -336,7 +336,7 @@ Los colores de los escenarios siguen la misma tendencia, teniendo el mismo estil
 ![](ImagenesMD/Nenufar.png)
 ***“Mapa del nenufar final”***
 
-////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+![](ImagenesMD/Jungla.png)
 ***“Mapa de la jungla final”***
 
 El diseño artístico de las interfaces del juego, a excepción de la interfaz dentro dentro de la partida, siguen un estilo más realista, teniendo colores oscuros, sombras y muchos detalles. De esta manera se consigue hacer un intenso contraste con el diseño de las ranas dentro del juego y así causar una pequeña sorpresa en los jugadores que prueben el juego por primera vez.
@@ -356,6 +356,12 @@ El diseño artístico de las interfaces del juego, a excepción de la interfaz d
 ////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
 ***“Interfaz de la pantalla de resultados”***
 
+Dentro de la interfaz de selección de personaje, los jugadores escogen haciendo click en el retrato de los personajes y posteriormente se muestra una versión musculada de la rana en los laterales. El estilo de estas ilustraciones es igual de realista para encajar con el estilo mencionado anteriormente.
+
+
+
+![](ImagenesMD/RanasDetalle.png)
+***“Personajes detallados en la selección de personaje”***
 
 # <a name="_toc148190704"></a>Mejoras para el Futuro
 Algunos aspectos comentados anteriormente en este documento no fueron implementados durante la fase de desarrollo inicial. Siendo entonces contenido que se ha recortado del juego, pero que se implementarán en el futuro. Dichos aspectos son:
