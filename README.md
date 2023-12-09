@@ -331,20 +331,39 @@ Las animaciones de los personajes se implementan en el juego mediante una hoja d
 Los colores de los escenarios siguen la misma tendencia, teniendo el mismo estilo artístico que los personajes.
 
 ![](ImagenesMD/Desierto.png)
-***“Desierto”***
+***“Mapa del desierto final”***
 
 ![](ImagenesMD/Nenufar.png)
-***“Nenufar”***
+***“Mapa del nenufar final”***
 
 ////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
-***“Jungla”***
+***“Mapa de la jungla final”***
+
+El diseño artístico de las interfaces del juego, a excepción de la interfaz dentro dentro de la partida, siguen un estilo más realista, teniendo colores oscuros, sombras y muchos detalles. De esta manera se consigue hacer un intenso contraste con el diseño de las ranas dentro del juego y así causar una pequeña sorpresa en los jugadores que prueben el juego por primera vez.
+
+![](ImagenesMD/InterfazPrincipal.png)
+***“Interfaz de la pantalla principal”***
+
+![](ImagenesMD/InterfazAjustes.png)
+***“Interfaz del menú de ajustes”***
+
+////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+***“Interfaz del menú de selección de personaje”***
+
+////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+***“Interfaz del menú de selección de mapa”***
+
+////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+***“Interfaz de la pantalla de resultados”***
+
 
 # <a name="_toc148190704"></a>Mejoras para el Futuro
 Algunos aspectos comentados anteriormente en este documento no fueron implementados durante la fase de desarrollo inicial. Siendo entonces contenido que se ha recortado del juego, pero que se implementarán en el futuro. Dichos aspectos son:
 
 1. Ataque ascendente, aéreo y especial de los personajes.
 2. Animaciones de los escenarios.
-3. 
+3. Control del brillo de la pantalla.
+4. 
 # <a name="_toc148190705"></a>Referencias
 En este apartado están las referencias a las imágenes de terceros utilizadas que no son Creative Commons. El resto de las imágenes que no son de elaboración propia son de libre uso.
 
