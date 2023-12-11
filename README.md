@@ -347,7 +347,7 @@ El diseño artístico de las interfaces del juego, a excepción de la interfaz d
 ![](ImagenesMD/InterfazAjustes.png)
 ***“Interfaz del menú de ajustes”***
 
-////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+![](ImagenesMD/PantallaPersonaje.png)
 ***“Interfaz del menú de selección de personaje”***
 
 ![](ImagenesMD/InterfazMapa.png)
