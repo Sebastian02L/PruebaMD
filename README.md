@@ -385,7 +385,7 @@ Algunos aspectos comentados anteriormente en este documento no fueron implementa
 4. 
 # <a name="_toc148190705"></a>Referencias
 
-Parte de las referencias para el desarrollo del videojuego provienen de otros juegos, como por ejemplo Mortal Kombat y Street Fighter. La estructura del GDD ha sido extraída de la teoría enseñada en la asignatura "Fundamentos del diseño y la Jugabilidad" de primero de Diseño y Desarrollo de Videojuegos.
+Se ha tomado como referencia juegos como Mortal Kombat y Street Fighter a la hora de diseñar las mecánicas y diseño de los niveles. La estructura del GDD ha sido extraída de la teoría enseñada en la asignatura "Fundamentos del diseño y la Jugabilidad" de primero de Diseño y Desarrollo de Videojuegos.
 
 Adicionalmente, en este apartado están las referencias a las imágenes de terceros utilizadas que no son Creative Commons. El resto de las imágenes que no son de elaboración propia son de libre uso.
 
