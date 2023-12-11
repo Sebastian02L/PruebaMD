@@ -384,7 +384,10 @@ Algunos aspectos comentados anteriormente en este documento no fueron implementa
 3. Control del brillo de la pantalla.
 4. 
 # <a name="_toc148190705"></a>Referencias
-En este apartado están las referencias a las imágenes de terceros utilizadas que no son Creative Commons. El resto de las imágenes que no son de elaboración propia son de libre uso.
+
+Parte de las referencias para el desarrollo del videojuego provienen de otros juegos, como por ejemplo Mortal Kombat y Street Fighter. La estructura del GDD ha sido extraída de la teoría enseñada en la asignatura "Fundamentos del diseño y la Jugabilidad" de primero de Diseño y Desarrollo de Videojuegos.
+
+Adicionalmente, en este apartado están las referencias a las imágenes de terceros utilizadas que no son Creative Commons. El resto de las imágenes que no son de elaboración propia son de libre uso.
 
 [* foto de la rana Trepadora](https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1008+1676)
 
