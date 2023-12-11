@@ -350,7 +350,7 @@ El diseño artístico de las interfaces del juego, a excepción de la interfaz d
 ////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
 ***“Interfaz del menú de selección de personaje”***
 
-////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+![](ImagenesMD/InterfazMapa.png)
 ***“Interfaz del menú de selección de mapa”***
 
 ////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
@@ -366,7 +366,7 @@ El diseño de los botones del juego siguen el estilo de la portada, siendo un re
 ![](ImagenesMD/Botones.png)
 ***“Botones finales del juego”***
 
-El flujo del juego se modificó, juntando la escena de título principal y selección de modo en una misma escena. También se agregó una pantalla que carga con una animación para que se vea en la pantalla mientras el juego carga sus recursos.
+El flujo del juego ha sido modificado, juntando la escena de título principal y selección de modo en una misma escena. También se agregó una pantalla que carga con una animación para que se vea en la pantalla mientras el juego carga sus recursos. Adiocionalmente, se eliminó la opción de volver atrás en algunas escenas.
 
 ![](ImagenesMD/PantallaModo.png)
 ***“Pantalla de modo encima del titulo principal”***
