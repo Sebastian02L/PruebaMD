@@ -350,7 +350,7 @@ El diseño artístico de las interfaces del juego, a excepción de la interfaz d
 ////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
 ***“Interfaz del menú de selección de personaje”***
 
-////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+![](ImagenesMD/InterfazMapa.png)
 ***“Interfaz del menú de selección de mapa”***
 
 ////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
@@ -366,7 +366,7 @@ El diseño de los botones del juego siguen el estilo de la portada, siendo un re
 ![](ImagenesMD/Botones.png)
 ***“Botones finales del juego”***
 
-El flujo del juego se modificó, juntando la escena de título principal y selección de modo en una misma escena. También se agregó una pantalla que carga con una animación para que se vea en la pantalla mientras el juego carga sus recursos.
+El flujo del juego ha sido modificado, juntando la escena de título principal y selección de modo en una misma escena. También se agregó una pantalla que carga con una animación para que se vea en la pantalla mientras el juego carga sus recursos. Adiocionalmente, se eliminó la opción de volver atrás en algunas escenas.
 
 ![](ImagenesMD/PantallaModo.png)
 ***“Pantalla de modo encima del titulo principal”***
@@ -374,6 +374,7 @@ El flujo del juego se modificó, juntando la escena de título principal y selec
 ![](ImagenesMD/PantallaCarga.png)
 ***“Pantalla de carga del videojuego”***
 
+En lo que respecta a los ataques de los personajes, el ataque bajo de la rana toro fue sustitudo por sacar la lengua, en lugar del ataque descrito originalmente.
 
 # <a name="_toc148190704"></a>Mejoras para el Futuro
 Algunos aspectos comentados anteriormente en este documento no fueron implementados durante la fase de desarrollo inicial. Siendo entonces contenido que se ha recortado del juego, pero que se implementarán en el futuro. Dichos aspectos son:
@@ -383,7 +384,15 @@ Algunos aspectos comentados anteriormente en este documento no fueron implementa
 3. Control del brillo de la pantalla.
 4. 
 # <a name="_toc148190705"></a>Referencias
-En este apartado están las referencias a las imágenes de terceros utilizadas que no son Creative Commons. El resto de las imágenes que no son de elaboración propia son de libre uso.
+
+Se ha tomado como referencia juegos como Mortal Kombat y Street Fighter a la hora de diseñar las mecánicas y diseño de los niveles. La estructura del GDD ha sido extraída de la teoría enseñada en la asignatura "Fundamentos del diseño y la Jugabilidad" de primero de Diseño y Desarrollo de Videojuegos.
+
+Adicionalmente, en este apartado están las referencias a las imágenes de terceros utilizadas que no son Creative Commons. El resto de las imágenes que no son de elaboración propia son de libre uso.
 
 [* foto de la rana Trepadora](https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1008+1676)
+
+La música del juego, así como los efectos de sonido, fueron sacadas de la página Pixabay, cumpliendo las características de sus licencias correspondientes.
+
+[* Página de Pixabay](https://pixabay.com/)
+
 
