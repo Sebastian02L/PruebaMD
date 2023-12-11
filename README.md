@@ -358,6 +358,9 @@ El diseño artístico de las interfaces del juego, a excepción de la interfaz d
 
 Dentro de la interfaz de selección de personaje, los jugadores escogen haciendo click en el retrato de los personajes y posteriormente se muestra una versión musculada de la rana en los laterales. El estilo de estas ilustraciones es igual de realista para encajar con el estilo mencionado anteriormente.
 
+Los botones que permiten la navegación entre las diferentes interfaces tienen el mismo estilo que la portada del juego, teniendo efectos de óxido y letras rojas con detalles blancos.
+
+
 
 
 ![](ImagenesMD/RanasDetalle.png)
