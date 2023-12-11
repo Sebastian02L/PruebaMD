@@ -356,7 +356,7 @@ El diseño artístico de las interfaces del juego, a excepción de la interfaz d
 ////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
 ***“Interfaz de la pantalla de resultados”***
 
-Dentro de la interfaz de selección de personaje, los jugadores escogen haciendo click en el retrato de los personajes y posteriormente se muestra una versión musculada de la rana en los laterales. El estilo de estas ilustraciones es igual de realista para encajar con el estilo mencionado anteriormente.
+Dentro de la interfaz de selección de personaje, los jugadores escogen haciendo click en el retrato de los personajes y posteriormente se muestra una versión musculada de la rana en los laterales. El estilo de estas ilustraciones sigue la tendencia realista de las interfaces.
 
 ![](ImagenesMD/RanasDetalle.png)
 ***“Personajes detallados en la selección de personaje”***
@@ -368,12 +368,12 @@ El diseño de los botones del juego siguen el estilo de la portada, siendo un re
 
 El flujo del juego se modificó, juntando la escena de título principal y selección de modo en una misma escena. También se agregó una pantalla que carga con una animación para que se vea en la pantalla mientras el juego carga sus recursos.
 
+![](ImagenesMD/PantallaModo.png)
+***“Pantalla de modo encima del titulo principal”***
+
 ![](ImagenesMD/PantallaCarga.png)
 ***“Pantalla de carga del videojuego”***
 
-
-![](ImagenesMD/RanasDetalle.png)
-***“Personajes detallados en la selección de personaje”***
 
 # <a name="_toc148190704"></a>Mejoras para el Futuro
 Algunos aspectos comentados anteriormente en este documento no fueron implementados durante la fase de desarrollo inicial. Siendo entonces contenido que se ha recortado del juego, pero que se implementarán en el futuro. Dichos aspectos son:
