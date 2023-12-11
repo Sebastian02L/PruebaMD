@@ -388,3 +388,7 @@ En este apartado están las referencias a las imágenes de terceros utilizadas q
 
 [* foto de la rana Trepadora](https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1008+1676)
 
+La música del juego, así como los efectos de sonido, fueron sacadas de la página Pixabay, cumpliendo las características de sus licencias correspondientes.
+[* Página de Pixabay](https://pixabay.com/)
+
+
