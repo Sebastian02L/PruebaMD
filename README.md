@@ -358,6 +358,18 @@ El diseño artístico de las interfaces del juego, a excepción de la interfaz d
 
 Dentro de la interfaz de selección de personaje, los jugadores escogen haciendo click en el retrato de los personajes y posteriormente se muestra una versión musculada de la rana en los laterales. El estilo de estas ilustraciones es igual de realista para encajar con el estilo mencionado anteriormente.
 
+![](ImagenesMD/RanasDetalle.png)
+***“Personajes detallados en la selección de personaje”***
+
+El diseño de los botones del juego siguen el estilo de la portada, siendo un rectángulo con efectos de óxido y letras rojas con detalles blancos y rojos carmesí.
+
+![](ImagenesMD/Botones.png)
+***“Botones finales del juego”***
+
+El flujo del juego se modificó, juntando la escena de título principal y selección de modo en una misma escena. También se agregó una pantalla que carga con una animación para que se vea en la pantalla mientras el juego carga sus recursos.
+
+![](ImagenesMD/PantallaCarga.png)
+***“Pantalla de carga del videojuego”***
 
 
 ![](ImagenesMD/RanasDetalle.png)
