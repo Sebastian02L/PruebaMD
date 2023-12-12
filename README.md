@@ -391,6 +391,7 @@ Adicionalmente, en este apartado están las referencias a las imágenes de terce
 La música del juego, así como los efectos de sonido, fueron sacadas de la página Pixabay y Splice, cumpliendo con las características de sus licencias correspondientes.
 
 [* Página de Pixabay](https://pixabay.com/)
+
 [* Página de Splice](https://splice.com/)
 
 
