@@ -325,7 +325,7 @@ Los colores de los personajes del videojuego son planos y con pocos detalles, pa
 ![](ImagenesMD/RanasColor.png)
 **“Colores finales de los personajes”**
 
-Las animaciones de los personajes se implementan en el juego mediante una hoja de sprites hecha a mano, habiendo una hoja por cada animación con una cantidad de frames variable. En total, cada personaje tiene asociados 8 hojas de sprites. Los colores de los escenarios siguen esta misma tendencia de estilo.
+Las animaciones de los personajes se implementan en el juego mediante una hoja de sprites hechos a mano, habiendo una hoja por cada animación con una cantidad de frames variable. En total, cada personaje tiene asociados 8 hojas de sprites. Los colores de los escenarios siguen esta misma tendencia de estilo.
 
 ![](ImagenesMD/Desierto.png)
 ***“Mapa del desierto final”***
