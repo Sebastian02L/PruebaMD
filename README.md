@@ -352,7 +352,7 @@ El diseño artístico de las interfaces del juego, a excepción de la interfaz d
 ![](ImagenesMD/InterfazMapa.png)
 ***“Interfaz del menú de selección de mapa”***
 
-////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+![](ImagenesMD/PantallaResultados.png)
 ***“Interfaz de la pantalla de resultados”***
 
 Dentro de la interfaz de selección de personaje, los jugadores escogen haciendo click en el retrato de los personajes y posteriormente se muestra una versión musculada de la rana en los laterales. El estilo de estas ilustraciones sigue la tendencia realista de las interfaces.
@@ -373,7 +373,9 @@ El flujo del juego presenta pequeños cambios respecto de la idea inicial. La pa
 ![](ImagenesMD/PantallaCarga.png)
 ***“Pantalla de carga del videojuego”***
 
-En lo que respecta a los ataques de los personajes, el ataque bajo de la rana toro fue sustitudo por un nuevo ataque, en lugar de realizar un aplauso delante de su cuerpo, saca la lengua hacia la dirección en la que mira, haciendo daño a la rana rival si está a su alcance.
+Los personajes tienen diferentes estadísticas para ofrecer más variedad. De forma concreta, 
+
+En lo que respecta a cambios en los ataques, el ataque bajo de la rana toro fue sustitudo por un nuevo ataque, en lugar de realizar un aplauso delante de su cuerpo, saca la lengua hacia la dirección en la que mira, haciendo daño a la rana rival si está a su alcance.
 
 En cuanto a los sonidos, al entrar en cualquiera de los tres escenarios, se reproduce una canción característica junto con sonidos de ambiente. Asimismo, todos los menús reproducen una canción de rock para acompañar al estilo artístico realista mencionado antes.
 
