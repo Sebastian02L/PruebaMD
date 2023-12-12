@@ -365,7 +365,7 @@ Los botones del juego siguen el estilo de la portada, teniendo efectos de óxido
 ![](ImagenesMD/Botones.png)
 ***“Botones finales del juego”***
 
-El flujo del juego presenta pequeños cambios respecto de la idea inicial. Se agregó una pantalla de carga con una pequeña animación que se muestra mientras el juego carga los recursos. La pantalla de selección de modo se diseñó desde cero y la pantalla de resultados se cambió ligeramente en respecto a su boceto inicial, ocurriendo lo mismo con la interfaz de selección de personajes y mapas. Adicionalmente, se eliminó la opción de volver atrás en la interfaz de selección de personaje y selección de mapa, para mantener la simplicidad de las interfaces.
+El flujo del juego presenta pequeños cambios respecto de la idea inicial. La pantalla de selección de modo se diseñó desde cero y la pantalla de resultados se cambió ligeramente en respecto a su boceto inicial, ocurriendo lo mismo con la interfaz de selección de personajes y mapas. También se agregó una pantalla de carga con una pequeña animación que se muestra mientras el juego carga los recursos. Adicionalmente, se eliminó la opción de volver atrás en la interfaz de selección de personaje y selección de mapa, para mantener la simplicidad de sus interfaces.
 
 ![](ImagenesMD/PantallaModo.png)
 ***“Pantalla de selección de modo”***
