@@ -373,6 +373,8 @@ El flujo del juego presenta pequeños cambios respecto de la idea inicial. Se ju
 
 En lo que respecta a los ataques de los personajes, el ataque bajo de la rana toro fue sustitudo, en lugar de realizar un aplauso delante de su cuerpo, saca la lengua hacia la dirección en la que mira.
 
+Al entrar en cualquiera de los tres escenarios, se reproduce una canción característica junto con sonidos de ambiente. Asimismo, todas las interfaces repdroducen una canción de rock para acompañar al estilo artístico.
+
 # <a name="_toc148190704"></a>Mejoras para el Futuro
 Algunos aspectos comentados anteriormente en este documento no fueron implementados durante la fase de desarrollo inicial. Siendo entonces contenido que se ha recortado del juego, pero que son posibles implementaciones futuras. Dichos aspectos son:
 
