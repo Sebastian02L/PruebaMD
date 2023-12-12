@@ -338,7 +338,7 @@ Los colores de los escenarios siguen esta misma tendencia de estilo.
 ![](ImagenesMD/Jungla.png)
 ***“Mapa de la jungla final”***
 
-El diseño artístico de las interfaces del juego, a excepción de la interfaz dentro dentro de la partida, tienen un estilo más realista, teniendo colores oscuros, sombras y detalles marcados. De esta manera se consigue hacer un intenso contraste con el diseño de las ranas dentro de las partidas y así causar una pequeña sorpresa en los jugadores que prueben el juego por primera vez.
+El diseño artístico de las interfaces del juego, a excepción de la interfaz dentro de la partida, poseen un estilo más realista, teniendo colores más oscuros, sombras y detalles marcados. De esta manera se consigue hacer un intenso contraste con el diseño de las ranas dentro de las partidas y así causar una pequeña sorpresa en los jugadores que prueben el juego por primera vez.
 
 ![](ImagenesMD/InterfazPrincipal.png)
 ***“Interfaz de la pantalla principal”***
@@ -360,22 +360,22 @@ Dentro de la interfaz de selección de personaje, los jugadores escogen haciendo
 ![](ImagenesMD/RanasDetalle.png)
 ***“Personajes detallados en la selección de personaje”***
 
-Los botones del juego siguen el estilo de la portada, teniendo efectos de óxido y letras rojas con detalles blancos y rojos carmesí.
+Los botones del juego siguen el estilo de la portada, teniendo efectos de óxido y letras rojas con detalles blancos y rojos carmesí intensos.
 
 ![](ImagenesMD/Botones.png)
 ***“Botones finales del juego”***
 
-El flujo del juego presenta pequeños cambios respecto de la idea inicial. Se juntó la escena de título principal y selección de modo en una misma escena y se agregó una pantalla que carga con una pequeña animación que se muestra mientras el juego carga sus recursos. Adiocionalmente, se eliminó la opción de volver atrás en la interfaz de selección de personaje y selección de mapa.
+El flujo del juego presenta pequeños cambios respecto de la idea inicial. Se agregó una pantalla de carga con una pequeña animación que se muestra mientras el juego carga los recursos. La pantalla de selección de modo se diseñó desde cero y la pantalla de resultados se cambió ligeramente en respecto a su boceto inicial. Adicionalmente, se eliminó la opción de volver atrás en la interfaz de selección de personaje y selección de mapa, para mantener la simplicidad de las interfaces.
 
 ![](ImagenesMD/PantallaModo.png)
-***“Pantalla de modo encima del titulo principal”***
+***“Pantalla de selección de modo”***
 
 ![](ImagenesMD/PantallaCarga.png)
 ***“Pantalla de carga del videojuego”***
 
-En lo que respecta a los ataques de los personajes, el ataque bajo de la rana toro fue sustitudo, en lugar de realizar un aplauso delante de su cuerpo, saca la lengua hacia la dirección en la que mira.
+En lo que respecta a los ataques de los personajes, el ataque bajo de la rana toro fue sustitudo por un nuevo ataque, en lugar de realizar un aplauso delante de su cuerpo, saca la lengua hacia la dirección en la que mira, haciendo daño a la rana rival si está a su alcance.
 
-Al entrar en cualquiera de los tres escenarios, se reproduce una canción característica junto con sonidos de ambiente. Asimismo, todas las interfaces repdroducen una canción de rock para acompañar al estilo artístico.
+En cuanto a los sonidos, al entrar en cualquiera de los tres escenarios, se reproduce una canción característica junto con sonidos de ambiente. Asimismo, todos los menús reproducen una canción de rock para acompañar al estilo artístico realista mencionado antes.
 
 # <a name="_toc148190704"></a>Mejoras para el Futuro
 Algunos aspectos comentados anteriormente en este documento no fueron implementados durante la fase de desarrollo inicial. Siendo entonces contenido que se ha recortado del juego, pero que son posibles implementaciones futuras. Dichos aspectos son:
