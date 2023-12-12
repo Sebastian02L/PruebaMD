@@ -320,15 +320,14 @@ En la pantalla de resultados, sonarán aplausos mientras que de fondo se escucha
 Tanto en la pantalla de selección de personajes como de mapas, a la hora de seleccionar el personaje/mapa se escucharán diversos sonidos. En el caso de los personajes, su “ribbit” correspondiente, y para los mapas, alguno de los efectos mencionados anteriormente.
 
 # <a name="_toc148190703"></a>Desarrollo
-Los colores de los personajes del videojuego son planos y con pocos detalles, para semejarse más el estilo cartoon buscado durante el desarrollo. 
+Los colores de los personajes del videojuego son planos y con pocos detalles, para semejarse más el estilo cartoon buscado por el equipo. 
 
 ![](ImagenesMD/RanasColor.png)
 **“Colores finales de los personajes”**
 
-Las animaciones de los personajes se implementan en el juego mediante una hoja de sprites hecha a mano, habiendo una hoja por cada animación con una cantidad de frames variable.
+Las animaciones de los personajes se implementan en el juego mediante una hoja de sprites hechos a mano, habiendo una hoja por cada animación con una cantidad de frames variable. En total, cada personaje tiene asociados 8 hojas de sprites. 
 
-
-Los colores de los escenarios siguen la misma tendencia, teniendo el mismo estilo artístico que los personajes.
+Los colores de los escenarios siguen esta misma tendencia de estilo.
 
 ![](ImagenesMD/Desierto.png)
 ***“Mapa del desierto final”***
@@ -339,7 +338,7 @@ Los colores de los escenarios siguen la misma tendencia, teniendo el mismo estil
 ![](ImagenesMD/Jungla.png)
 ***“Mapa de la jungla final”***
 
-El diseño artístico de las interfaces del juego, a excepción de la interfaz dentro dentro de la partida, siguen un estilo más realista, teniendo colores oscuros, sombras y muchos detalles. De esta manera se consigue hacer un intenso contraste con el diseño de las ranas dentro del juego y así causar una pequeña sorpresa en los jugadores que prueben el juego por primera vez.
+El diseño artístico de las interfaces del juego, a excepción de la interfaz dentro de la partida, poseen un estilo más realista, teniendo colores más oscuros, sombras y detalles marcados. De esta manera se consigue hacer un intenso contraste con el diseño de las ranas dentro de las partidas y así causar una pequeña sorpresa en los jugadores que prueben el juego por primera vez.
 
 ![](ImagenesMD/InterfazPrincipal.png)
 ***“Interfaz de la pantalla principal”***
@@ -347,7 +346,7 @@ El diseño artístico de las interfaces del juego, a excepción de la interfaz d
 ![](ImagenesMD/InterfazAjustes.png)
 ***“Interfaz del menú de ajustes”***
 
-////////////////////////// ESPACIO PARA IMAGEN //////////////////////////
+![](ImagenesMD/PantallaPersonaje.png)
 ***“Interfaz del menú de selección de personaje”***
 
 ![](ImagenesMD/InterfazMapa.png)
@@ -361,28 +360,30 @@ Dentro de la interfaz de selección de personaje, los jugadores escogen haciendo
 ![](ImagenesMD/RanasDetalle.png)
 ***“Personajes detallados en la selección de personaje”***
 
-El diseño de los botones del juego siguen el estilo de la portada, siendo un rectángulo con efectos de óxido y letras rojas con detalles blancos y rojos carmesí.
+Los botones del juego siguen el estilo de la portada, teniendo efectos de óxido y letras rojas con detalles blancos y rojos carmesí intensos.
 
 ![](ImagenesMD/Botones.png)
 ***“Botones finales del juego”***
 
-El flujo del juego ha sido modificado, juntando la escena de título principal y selección de modo en una misma escena. También se agregó una pantalla que carga con una animación para que se vea en la pantalla mientras el juego carga sus recursos. Adiocionalmente, se eliminó la opción de volver atrás en algunas escenas.
+El flujo del juego presenta pequeños cambios respecto de la idea inicial. La pantalla de selección de modo se diseñó desde cero y la pantalla de resultados se cambió ligeramente en respecto a su boceto inicial, ocurriendo lo mismo con la interfaz de selección de personajes y mapas. También se agregó una pantalla de carga con una pequeña animación que se muestra mientras el juego carga los recursos. Adicionalmente, se eliminó la opción de volver atrás en la interfaz de selección de personaje y selección de mapa, para mantener la simplicidad de sus interfaces.
 
 ![](ImagenesMD/PantallaModo.png)
-***“Pantalla de modo encima del titulo principal”***
+***“Pantalla de selección de modo”***
 
 ![](ImagenesMD/PantallaCarga.png)
 ***“Pantalla de carga del videojuego”***
 
-En lo que respecta a los ataques de los personajes, el ataque bajo de la rana toro fue sustitudo por sacar la lengua, en lugar del ataque descrito originalmente.
+En lo que respecta a los ataques de los personajes, el ataque bajo de la rana toro fue sustitudo por un nuevo ataque, en lugar de realizar un aplauso delante de su cuerpo, saca la lengua hacia la dirección en la que mira, haciendo daño a la rana rival si está a su alcance.
+
+En cuanto a los sonidos, al entrar en cualquiera de los tres escenarios, se reproduce una canción característica junto con sonidos de ambiente. Asimismo, todos los menús reproducen una canción de rock para acompañar al estilo artístico realista mencionado antes.
 
 # <a name="_toc148190704"></a>Mejoras para el Futuro
-Algunos aspectos comentados anteriormente en este documento no fueron implementados durante la fase de desarrollo inicial. Siendo entonces contenido que se ha recortado del juego, pero que se implementarán en el futuro. Dichos aspectos son:
+Algunos aspectos comentados anteriormente en este documento no fueron implementados durante la fase de desarrollo inicial. Siendo entonces contenido que se ha recortado del juego, pero que son posibles implementaciones futuras. Dichos aspectos son:
 
 1. Ataque ascendente, aéreo y especial de los personajes.
 2. Animaciones de los escenarios.
 3. Control del brillo de la pantalla.
-4. 
+
 # <a name="_toc148190705"></a>Referencias
 
 Se ha tomado como referencia juegos como Mortal Kombat y Street Fighter a la hora de diseñar las mecánicas y diseño de los niveles. La estructura del GDD ha sido extraída de la teoría enseñada en la asignatura "Fundamentos del diseño y la Jugabilidad" de primero de Diseño y Desarrollo de Videojuegos.
@@ -391,8 +392,10 @@ Adicionalmente, en este apartado están las referencias a las imágenes de terce
 
 [* foto de la rana Trepadora](https://calphotos.berkeley.edu/cgi/img_query?enlarge=0000+0000+1008+1676)
 
-La música del juego, así como los efectos de sonido, fueron sacadas de la página Pixabay, cumpliendo las características de sus licencias correspondientes.
+La música del juego, así como los efectos de sonido, fueron sacadas de la página Pixabay y Splice, cumpliendo con las características de sus licencias correspondientes.
 
 [* Página de Pixabay](https://pixabay.com/)
+
+[* Página de Splice](https://splice.com/)
 
 
