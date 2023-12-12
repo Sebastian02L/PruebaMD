@@ -373,7 +373,11 @@ El flujo del juego presenta pequeños cambios respecto de la idea inicial. La pa
 ![](ImagenesMD/PantallaCarga.png)
 ***“Pantalla de carga del videojuego”***
 
-Los personajes tienen diferentes estadísticas para ofrecer más variedad. De forma concreta, 
+Se dió a los personajes diferentes estadísticas para ofrecer más variedad dentro del juego. De forma más concreta:
+1. La rana toro tiene la vida máxima más alta de todas pero tiene menos velocidad de movimiento.
+2. La rana de lluvia tiene un poco más de vida de lo normal pero es ligeramente más lenta que las demás.
+3. La rana punta de flecha es más rápida que las demás pero es la que menor vida máxima tiene de todas.
+4. La rana trepadora tiene las estádisticas estándar, estando entre medias de todas las demás ranas.
 
 En lo que respecta a cambios en los ataques, el ataque bajo de la rana toro fue sustitudo por un nuevo ataque, en lugar de realizar un aplauso delante de su cuerpo, saca la lengua hacia la dirección en la que mira, haciendo daño a la rana rival si está a su alcance.
 
